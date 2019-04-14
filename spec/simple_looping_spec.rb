@@ -1,5 +1,5 @@
 
-require
+require_relative '.'
 describe 'Loops' do
   before(:each) do
     @looping_string = "Welcome to Flatiron School's Web Development Course!\nWelcome to Flatiron School's Web Development Course!\nWelcome to Flatiron School's Web Development Course!\nWelcome to Flatiron School's Web Development Course!\nWelcome to Flatiron School's Web Development Course!\nWelcome to Flatiron School's Web Development Course!\nWelcome to Flatiron School's Web Development Course!\n"
